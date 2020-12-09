@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+Animesh Here :zap: .
+
+:computer: I am a Software Development Engineer in Fibonalabs.
+
+:dollar: I was a Software Engineer in Societe Generale.
+
+:fire: Ask me anything about React.Js.
+
+:apple: I absolutely love implementing Deep Learning with Web Applications (Dont just call me an "enthusiast")
+
+:metal: Connect with me on https://www.linkedin.com/in/hokage7
+
+:muscle: Frontend-dev and ML-dev folks are family, welcome for healthy discussions.
+
+
+
 <!--
 **animeshmohanty/animeshmohanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
