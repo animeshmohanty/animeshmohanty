@@ -14,7 +14,9 @@ Animesh Here :zap: .
 
 :muscle: Frontend-dev and ML-dev folks are family, welcome for healthy discussions.
 
-:email: Do write to me at animeshmohantyblitz@gmail.com
+:email: Do write to me at animeshmohantyblitz@gmail.com.
+
+:office: Wanna hire me? My skillset includes ReactJs (KendoUI, AntD, MaterialUi for UI), ReduxJs (with Thunks and Loggers), Jest & Enzyme (For TDD), Python, Machine Learning, UNIX, SQL, C++ , Git 
 
 
 
