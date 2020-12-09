@@ -14,7 +14,9 @@ Animesh Here :zap: .
 
 :muscle: Frontend-dev and ML-dev folks are family, welcome for healthy discussions.
 
-📫 Do write to me at animeshmohantyblitz@gmail.com
+:email: Do write to me at animeshmohantyblitz@gmail.com
+
+
 
 
 
