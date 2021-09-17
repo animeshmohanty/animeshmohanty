@@ -2,7 +2,7 @@
 
 Animesh Here :zap: .
 
-:computer: I am a Software Development Engineer in Fibonalabs.
+:computer: I am a Senior Software Engineer at Azentio Software where I am building a huge fintech SaaS application and I am also acting as a Product Manager.
 
 :dollar: I was a Software Engineer in Societe Generale.
 
