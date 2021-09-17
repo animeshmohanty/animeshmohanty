@@ -2,7 +2,7 @@
 
 Animesh Here :zap: .
 
-:computer: I am a Senior Software Engineer at Azentio Software where I am building a huge fintech SaaS application and I am also acting as a Product Manager.
+:computer: I am a Senior Software Engineer at Azentio Software where I am building a huge fintech SaaS application and I am also acting as a Product Manager. I have been a founder's fellow at Tortoise being a part of their 0-1 journey and also a Founding member/Developer at Kaloory.
 
 :dollar: I was a Software Engineer in Societe Generale.
 
