@@ -16,7 +16,7 @@ Animesh Here :zap: .
 
 :email: Do write to me at animeshmohantyblitz@gmail.com.
 
-:office: Wanna hire me? My skillset includes ReactJs (KendoUI, AntD, MaterialUi for UI), ReduxJs (with Thunks and Loggers), Jest & Enzyme (For TDD), Python, Machine Learning,            UNIX, SQL, C++ , Git 
+:office: Wanna hire me? My skillset includes ReactJs (KendoUI, AntD, MaterialUi for UI), ReduxJs (with Thunks and Loggers), Jest & Enzyme (For TDD), Python, Machine Learning, SQL, C++ , Git 
 
 
 
