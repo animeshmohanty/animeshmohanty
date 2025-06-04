@@ -1,38 +1,26 @@
-### Hi there 👋
+## Hi there, I'm Animesh! 👋
 
-Animesh Here :zap: .
+Welcome to my GitHub page. I'm a Computer Science postgraduate from the Australian National University, and I love building modern web apps that blend machine learning with great UI/UX.
 
-:computer: I am a Computer Science Postgrad at the Australian National University. I was a Senior Software Engineer at Azentio Software where I was building a huge fintech SaaS application . I have been a founder's fellow at Tortoise being a part of their 0-1 journey and also a Founding member/Developer at Kaloory.
+### 💼 Professional Experience
+- **Senior Software Engineer @ Azentio Software**  
+  Led frontend efforts for a large fintech SaaS platform using React and Redux.
+- **Founder's Fellow @ Tortoise**  
+  Helped shape early product direction in a fast-paced startup environment.
+- **Founding Developer @ Kaloory**  
+  Built the initial digital marketplace platform from scratch.
+- **Software Engineer @ Societe Generale**  
+  Developed internal tools for banking operations.
 
-:dollar: I was a Software Engineer in Societe Generale.
+### 🧐 Interests
+- 💻 Crafting smooth user interfaces with React.js
+- 🤖 Applying computer vision and deep learning to real-world problems
+- 🎨 Merging intuitive design with robust machine learning backends
+- 🤝 Always excited to connect and collaborate on frontend or ML projects
 
-:fire: Ask me anything about React.Js and deets behind Computer Vision.
+### ✉️ Get in Touch
+- 📧 animeshmohantyblitz@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/hokage7)
 
-:apple: I absolutely love implementing Deep Learning with Web Applications (Dont just call me an "enthusiast")
-
-:metal: Connect with me on https://www.linkedin.com/in/hokage7
-
-:muscle: Frontend-dev and ML-dev folks are family, welcome for healthy discussions.
-
-:email: Do write to me at animeshmohantyblitz@gmail.com.
-
-:office: Wanna hire me? My skillset includes ReactJs (KendoUI, AntD, MaterialUi for UI), ReduxJs (with Thunks and Loggers), Jest & Enzyme (For TDD), Python, Machine Learning, SQL, C++ , Git 
-
-
-
-
-
-<!--
-**animeshmohanty/animeshmohanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+ReactJS (KendoUI, AntD, Material UI) · Redux (with Thunks & Loggers) · Jest & Enzyme · Python · Machine Learning · SQL · C++ · Git
